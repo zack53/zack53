@@ -21,6 +21,7 @@ Software developer that graduated from UMGC in 2019. Currently working at IBM si
 I have also created a MVP for a [NFT loan platform](https://github.com/zack53/nftys-defi). The MVP is very barebones for the front-end, but the smart contracts have been tested with 53 different tests that I have written using JavaScript. There should be more tests written before this would be used on the Mainnet. To be specific, I would like to add more negative tests and interest calculation tests. I believe we would need to add in the openzeppelin ReentrancyGuard to the code as well for safety.
 
 Email: zack.scott9889@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/zackary-scott-98a406a9/
 
 - 🔭 I’m currently working on a NFT Loan Platform
